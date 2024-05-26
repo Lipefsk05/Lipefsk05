@@ -1,4 +1,4 @@
-<img alt="nome" src="https://lh3.googleusercontent.com/pw/AP1GczOU_Dmyn0s4WRm6x098SCq6UJbSRxQpd61-L1uCR7wBi15iTMInCsWck_MINVo6gaiWvah1MMYMy8xAxP08I1Pvqh0p_qtXImikK9sY6OGyFe_npKSTMlhAcU25pm04m89EsMu4vQnZG0s4YXzz5Mc=w1023-h499-s-no-gm?authuser=1">
+<img width="200" alt="nome" src="https://lh3.googleusercontent.com/pw/AP1GczPZNNyqZUvCtMFxB9ubldlXHHL3OaWLitEVzTIYtGK0ou30C47DRQKtsMCmMfJLYIu9gxF-5wzjfNf-Ii9JFzJ8wOQu_A9FoGvZ04ABnbtYbJU98HX8SgntSBW1cJSKOc4oqfn2m1mjZ0SxUbaxftE=w600-h300-s-no-gm?authuser=1">
 
 ## Contatos <br> 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=CllgCJvrbrTSdKbcKrsFfVrQcrLKhvmCtMlLsWtPsFkKTBSWgBvMLsnhrCstmBNzSjVqBpPqljV)
