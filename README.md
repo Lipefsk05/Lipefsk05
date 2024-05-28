@@ -1,7 +1,7 @@
 <img width="200" alt="nome" src="https://lh3.googleusercontent.com/pw/AP1GczPZNNyqZUvCtMFxB9ubldlXHHL3OaWLitEVzTIYtGK0ou30C47DRQKtsMCmMfJLYIu9gxF-5wzjfNf-Ii9JFzJ8wOQu_A9FoGvZ04ABnbtYbJU98HX8SgntSBW1cJSKOc4oqfn2m1mjZ0SxUbaxftE=w600-h300-s-no-gm?authuser=1">
 
 ## Contatos <br> 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([https://mail.google.com/mail/mu/mp/187/#co](https://mail.google.com/mail/u/1/?pli=1#inbox?compose=DmwnWtMqhZwbXpwMGvGWpzXMspcXrbzJxWlWKHZLJGwbDKchgBkbrKMnxkLhJhcFqxLnfLjvxZRL)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?pli=1#inbox?compose=DmwnWtMqhZwbXpwMGvGWpzXMspcXrbzJxWlWKHZLJGwbDKchgBkbrKMnxkLhJhcFqxLnfLjvxZRL)
 
 ## Social <br> 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lipe_fenske/)
