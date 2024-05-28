@@ -4,8 +4,8 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipefenske05@gmail.com)
 
 ## Social <br> 
-<a href="http://example.com/](https://www.instagram.com/lipe_fenske/" target="_blank">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lipe_fenske/" />
+<a href="https://www.instagram.com/lipe_fenske/" target="_blank">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 ## Status
