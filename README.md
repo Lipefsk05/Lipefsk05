@@ -18,5 +18,3 @@
 <img aling="center" alt=c src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img aling="center" alt=bootstrap src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
 </div> 
-
-<img src="https://github.com/lipefsk05/lipefsk05/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
