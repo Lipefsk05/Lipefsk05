@@ -1,6 +1,8 @@
-<img width="200" alt="nome" src="https://lh3.googleusercontent.com/pw/AP1GczPZNNyqZUvCtMFxB9ubldlXHHL3OaWLitEVzTIYtGK0ou30C47DRQKtsMCmMfJLYIu9gxF-5wzjfNf-Ii9JFzJ8wOQu_A9FoGvZ04ABnbtYbJU98HX8SgntSBW1cJSKOc4oqfn2m1mjZ0SxUbaxftE=w600-h300-s-no-gm?authuser=1">
+<div align="center">
+  <img height="200" src="https://lh3.googleusercontent.com/pw/AP1GczPZNNyqZUvCtMFxB9ubldlXHHL3OaWLitEVzTIYtGK0ou30C47DRQKtsMCmMfJLYIu9gxF-5wzjfNf-Ii9JFzJ8wOQu_A9FoGvZ04ABnbtYbJU98HX8SgntSBW1cJSKOc4oqfn2m1mjZ0SxUbaxftE=w600-h300-s-no-gm?authuser=1"  />
+</div>
 
-## Contatos <br> 
+## <h2>Contatos</h2>
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipefenske05@gmail.com)
 
 ## Social <br> 
@@ -8,13 +10,34 @@
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxWHFG0nD-r64oYkbQIWKYQ)
 
 ## Status
-![lipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipefsk05&theme=great-gatsby)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lipefsk05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lipefsk05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ## Tecnologias <br> 
-<div style="display: inline_block"> 
-<img aling="center" alt=html5 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img aling="center" alt=css src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-<img aling="center" alt=javascript src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
-<img aling="center" alt=c src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img aling="center" alt=bootstrap src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
-</div> 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+
+
+###
