@@ -2,21 +2,32 @@
   <img height="200" src="https://lh3.googleusercontent.com/pw/AP1GczPZNNyqZUvCtMFxB9ubldlXHHL3OaWLitEVzTIYtGK0ou30C47DRQKtsMCmMfJLYIu9gxF-5wzjfNf-Ii9JFzJ8wOQu_A9FoGvZ04ABnbtYbJU98HX8SgntSBW1cJSKOc4oqfn2m1mjZ0SxUbaxftE=w600-h300-s-no-gm?authuser=1"  />
 </div>
 
-## <h2>Contatos</h2>
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipefenske05@gmail.com)
-
-## Social <br> 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lipe_fenske/)
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxWHFG0nD-r64oYkbQIWKYQ)
-
-## Status
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lipefsk05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lipefsk05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <h2>Contatos</h2> <br>
+  <a href="malito:felipefenske05@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
-## Tecnologias <br> 
 <div align="center">
+  <h2>Social</h2>
+  <a href="https://www.youtube.com/channel/UCxWHFG0nD-r64oYkbQIWKYQ" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/lipe_fenske/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+<div align="center">
+  <h2>Status</h2> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=lipefsk05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lipefsk05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+
+<div align="center">
+  <h2>Tecnologias</h2> <br> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -40,4 +51,15 @@
 
 
 
-###
+
+
+
+
+
+
+
+
+
+
+
+
