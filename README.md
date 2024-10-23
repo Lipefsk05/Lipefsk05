@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>Contatos</h2> <br>
+  <h2>Contacts</h2> <br>
   <a href="malito:felipefenske05@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
@@ -27,7 +27,7 @@
 
 
 <div align="center">
-  <h2>Tecnologias</h2> <br> 
+  <h2>Technologies</h2> <br> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
